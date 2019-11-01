@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mfree
+# key: mfree
+
+# --
+gsl_matrix_free(gsl_matrix * m);

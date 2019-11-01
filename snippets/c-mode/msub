@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: msub
+# key: msub
+
+# --
+gsl_matrix_sub(gsl_matrix * a, const gsl_matrix * b)

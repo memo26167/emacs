@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vfree
+# key: vfree
+
+# --
+gsl_vector_free(gsl_vector * v);

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vget
+# key: vget
+
+# --
+gsl_vector_get(const gsl_vector * v, const size_t i)

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: msumcte
+# key: msumcte
+
+# --
+gsl_matrix_add_constant(gsl_matrix * a, const double x)

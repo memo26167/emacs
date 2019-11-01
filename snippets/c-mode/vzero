@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vzero
+# key: vzero
+
+# --
+gsl_vector_set_zero(gsl_vector * v);

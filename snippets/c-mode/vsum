@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vsum
+# key: vsum
+
+# --
+gsl_vector_add(gsl_vector * a, const gsl_vector * b)

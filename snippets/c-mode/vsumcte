@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vsumcte
+# key: vsumcte
+
+# --
+gsl_vector_add_constant(gsl_vector * a, const double x)

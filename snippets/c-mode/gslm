@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gslm
+# key: gslm
+
+# --
+gsl_matrix *matrix=gsl_matrix_alloc(n,m);

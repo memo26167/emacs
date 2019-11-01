@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vscale
+# key: vscale
+
+# --
+gsl_vector_scale(gsl_vector * a, const double x)

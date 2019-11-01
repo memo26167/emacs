@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mzero
+# key: mzero
+
+# --
+gsl_matrix_set_zero(gsl_matrix * m)

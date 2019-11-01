@@ -1,0 +1,43 @@
+./main.py
+chmod +x main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+python3
+./main.py
+./main.py
+python3
+./main.py
+./main.py
+./main.py
+./main.py
+./main.py
+cd fisicacomputacional2/
+git status
+rm Tarea2/Problema4/schrodinger_tiempo.py 
+rm Tarea2/Problema4/test.py 
+git status
+git commit
+git commit origin master
+git commit master
+git commit origin
+git add Tarea2/Problema4/
+git status
+git reset HEAD Tarea2/Problema2/.mypy_cache/
+git status
+git rm Tarea2/Problema2/.mypy_cache/

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mget
+# key: mget
+
+# --
+gsl_matrix_get(const gsl_matrix * m, const size_t i, const size_t j);

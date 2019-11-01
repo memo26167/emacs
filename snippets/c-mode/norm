@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: norm
+# key: norm
+
+# --
+d=gsl_blas_dnrm2(const gsl_vector * x);

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mscale
+# key: mscale
+
+# --
+gsl_matrix_scale(gsl_matrix * a, const double x)

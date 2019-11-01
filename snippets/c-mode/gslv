@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gslv
+# key: gslv
+
+# --
+gsl_vector *v=gsl_vector_alloc(n);

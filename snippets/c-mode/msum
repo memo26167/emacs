@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: msum
+# key: msum
+
+# --
+gsl_matrix_add(gsl_matrix * a, const gsl_matrix * b)

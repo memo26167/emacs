@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vsub
+# key: vsub
+
+# --
+gsl_vector_sub(gsl_vector * a, const gsl_vector * b)

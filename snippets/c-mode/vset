@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vset
+# key: vset
+
+# --
+gsl_vector_set(gsl_vector * v, const size_t i, double x);

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mset
+# key: mset
+
+# --
+gsl_matrix_set(gsl_matrix * m, const size_t i, const size_t j, double x);
